@@ -8,10 +8,15 @@ This repository includes all my research links including topics of Web Design , 
 <h3> WEB DESIGN AND DEVELOPMENT</h3>
 <h5>HTML5 </h5>
 <ul>
-Tutorials
+<li>Tutorials
+<ul>
 <li>For Beginner refer Tutorialpoint - http://www.tutorialspoint.com/html5/</li>
-<li> For Beginner refer W3school - http://www.w3schools.com/html/html5_intro.asp</li>
-Examples
+<li> For Beginner refer W3school - http://www.w3schools.com/html/html5_intro.asp</li></ul> </li>
+</ul>
+<ul>
+<li>Examples
+<ul>
 <li>  Best Websites - http://www.awwwards.com/websites/html5/ </li>
-
+</ul>
+</li>
 </ul>
