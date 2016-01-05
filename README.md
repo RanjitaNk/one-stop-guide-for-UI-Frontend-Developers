@@ -5,11 +5,13 @@
 This repository includes all my research links including topics of Web Design , UI Development, APP Building, SEO, Softwares, Best Blogs, Graphic Design, New Trends and Best websites and Skills. I will update The links on the best topics. </p>
 <h2> Following are the Topics of my Research </h2>
 <hr></hr>
-<h3> WEB DESIGN AND DEVELOPMENT </h3>
+<h3> WEB DESIGN AND DEVELOPMENT</h3>
 <h5>HTML5 </h5>
-<table>
-<tr>
-<td> </td>
-</tr>
+<ul>
+Tutorials
+<li>For Beginner refer Tutorialpoint - http://www.tutorialspoint.com/html5/</li>
+<li> For Beginner refer W3school - http://www.w3schools.com/html/html5_intro.asp</li>
+Examples
+<li>  Best Websites - http://www.awwwards.com/websites/html5/ </li>
 
-</table>
+</ul>
