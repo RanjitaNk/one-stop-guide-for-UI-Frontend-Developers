@@ -10,14 +10,17 @@ This repository includes all my research links including topics of Web Design , 
 <ul>
 <li><span>Tutorials</span>
 <ul>
+<li> For Beginner refer W3school - http://www.w3schools.com/html/html5_intro.asp</li>
 <li>For Beginner refer Tutorialpoint - http://www.tutorialspoint.com/html5/</li>
-<li> For Beginner refer W3school - http://www.w3schools.com/html/html5_intro.asp</li></ul> </li>
+
+</ul> 
+</li>
 </ul>
 <ul>
-<li>Examples
+<li>Best Websites and plugins 
 <ul>
-<li>  Best Websites - http://www.awwwards.com/websites/html5/ </li>
-<li>Plugins  - http://www.jqueryrain.com/example/html5-jquery-tutorial/ </li>
+<li>Best Websites - http://www.awwwards.com/websites/html5/ </li>
+<li>Jquery Plugins  - http://www.jqueryrain.com/example/html5-jquery-tutorial/ </li>
 </ul>
 </li>
 </ul>
