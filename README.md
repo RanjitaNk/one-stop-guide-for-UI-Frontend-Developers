@@ -18,9 +18,8 @@ This repository includes all my research links including topics of Web Design , 
 </ul>
 <h5> </h5>
 <ul>
-<li>Best Websites and plugins 
+<li>Best plugins 
 <ul>
-<li>Best Websites - http://www.awwwards.com/websites/html5/ </li>
 <li>Jquery Plugins  - http://www.jqueryrain.com/example/html5-jquery-tutorial/ </li>
 </ul>
 </li>
