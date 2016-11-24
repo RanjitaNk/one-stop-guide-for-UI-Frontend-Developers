@@ -6,7 +6,6 @@ Below is the list of the best UI Design, UI Development, SEO, Applications, Inte
 
  <h2> CSS3 / html5 / javascript - Best Blogs and Tutorials </h2>
   <ul>
-
    <li><a href="https://css-tricks.com/">CSS Tricks</a></li> 
    <li><a href="www.w3schools.com/css/"> W3Schools</a></li>  
    <li><a href="https://www.smashingmagazine.com/tag/css/"> Smashing Magazine</a></li> 
@@ -20,12 +19,10 @@ Below is the list of the best UI Design, UI Development, SEO, Applications, Inte
    <li><a href="https://www.codeschool.com/"> Code School</a></li>
    <li><a href="https://www.lynda.com/"> Lynda Tutorials</a></li>
    <li><a href="https://teamtreehouse.com/"> Treehouse</a></li>
-   <li><a href="http://html5doctor.com/"> HTML5 Doctor</a></li>
-
-      
+   <li><a href="http://html5doctor.com/"> HTML5 Doctor</a></li>     
    </ul>
     
-   <h2>To know Browser support </h2>
+   <h2>Browser support </h2>
    <ul>
    <li><a href="http://caniuse.com/">Can I use</a></li>
    <li><a href="http://html5please.com/">html5please</a></li>   
