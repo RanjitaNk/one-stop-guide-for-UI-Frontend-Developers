@@ -7,7 +7,7 @@ Below is the list of the best UI Design, UI Development, SEO, Applications, Inte
  <h2> CSS3 / html5 / javascript - Best Blogs and Tutorials </h2>
   <ul>
    <li><a href="https://css-tricks.com/">CSS Tricks</a></li> 
-   <li><a href="www.w3schools.com/css/"> W3Schools</a></li>  
+   <li><a href="www.w3schools.com/css/">W3Schools</a></li>
    <li><a href="https://www.smashingmagazine.com/tag/css/"> Smashing Magazine</a></li> 
    <li><a href="https://www.sitepoint.com/">Sitepoint</a></li> 
    <li><a href="http://tympanus.net/codrops/">Codrops</a></li> 
