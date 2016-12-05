@@ -10,10 +10,10 @@ Below is the list of the best UI Design, UI Development, SEO, Applications, Inte
    <li><a href="www.w3schools.com/css/"> W3Schools</a></li>  
    <li><a href="https://www.smashingmagazine.com/tag/css/"> Smashing Magazine</a></li> 
    <li><a href="https://www.sitepoint.com/">Sitepoint</a></li> 
-   <li><a href="http://tympanus.net/codrops/">codrops</a></li> 
-   <li><a href="http://tutsplus.com/tutorials">tuts+</a></li> 
+   <li><a href="http://tympanus.net/codrops/">Codrops</a></li> 
+   <li><a href="http://tutsplus.com/tutorials">Tuts+</a></li> 
    <li><a href="http://www.tutorialspoint.com/">Tutorials point</a></li> 
-   <li><a href="http://www.hongkiat.com/blog/">hongiat </a></li> 
+   <li><a href="http://www.hongkiat.com/blog/">Hongiat </a></li> 
    <li><a href="https://developer.mozilla.org"> Developer Developer Network</a></li>
    <li><a href="https://www.codecademy.com/"> Code academy</a></li>
    <li><a href="https://www.codeschool.com/"> Code School</a></li>
@@ -35,5 +35,21 @@ Below is the list of the best UI Design, UI Development, SEO, Applications, Inte
    <li> You can also use Chrome and Mozilla Developer Tools </li>
    </ul>
    
+   <h2> Advance tools, plugins and version controls you should use  </h2>
+   <ul>
+   <li> <a href="https://bower.io/">Bower </a></li>
+   <li><a href="http://gruntjs.com/">Grunt</a> </li>
+   <li><a href="http://gulpjs.com/">Gulp </a></li>
+   <li><a href="https://git-scm.com/">Git </a></li>
+   <li><a href="https://subversion.apache.org/">SVN</a></li>
+   <li><a href="https://www.mercurial-scm.org/">Mercurial</a></li>
+   <li><a href="https://github.com/">Gitub</a></li>
+   <li><a href="https://bitbucket.org/">Bitbucket</a></li>
+   <li> <a href="https://nodejs.org/en/">Node Js </a></li>
+   <li> <a href="https://www.mongodb.com/">MongoDB </a></li>
+   <li> <a href="http://sass-lang.com/">SCSS </a></li>
+   <li> <a href="http://lesscss.org/">LESS </a></li>
+
+   </ul>
    
    
