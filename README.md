@@ -57,7 +57,7 @@ Below is the list of the best UI Design, UI Development, SEO, Applications, Inte
    <li> <a href="https://www.siteinspire.com/"> Siteinspire  </a></li>
    </ul>
    
-   <h2> Frameworks Javascript </h2>
+   <h2> Frameworks and Libraries Javascript </h2>
   <ul>
    <li><a href="https://angularjs.org/"> Angular js </a></li>
    <li><a href="http://backbonejs.org/">Backbone </a></li>
