@@ -51,5 +51,21 @@ Below is the list of the best UI Design, UI Development, SEO, Applications, Inte
    <li> <a href="http://lesscss.org/">LESS </a></li>
 
    </ul>
+   <h2> Best Sites for Inspiration </h2>
+   <ul>
+   <li> <a href="http://www.awwwards.com/">Awwwards  </a></li>
+   <li> <a href="https://www.siteinspire.com/"> Siteinspire  </a></li>
+   </ul>
    
+   <h2> Frameworks Javascript </h2>
+  <ul>
+   <li><a href="https://angularjs.org/"> Angular js </a></li>
+   <li><a href="http://backbonejs.org/">Backbone </a></li>
+   <li><a href="https://facebook.github.io/react/">React </a></li>
+   <li><a href="http://knockoutjs.com/">Knockout  </a></li>
+   <li><a href="http://emberjs.com/">Ember </a></li>
+   <li><a href="https://www.meteor.com/">Meteor </a> </li>
+ 
+ </ul>
+
    
