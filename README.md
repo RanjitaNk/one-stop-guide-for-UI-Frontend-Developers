@@ -68,7 +68,7 @@ Below is the list of the best UI Design, UI Development, SEO, Applications, Inte
  
  </ul>
 
-  <h2>Sites for SEO </h2>
+ <h2>Sites for SEO </h2>
  <ul>
-  <li> <a hre=""> Seo Moz</a></li>
+  <li> <a hre="https://moz.com/"> Seo Moz</a></li>
  </ul>
