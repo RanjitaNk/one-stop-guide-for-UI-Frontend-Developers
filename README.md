@@ -58,17 +58,37 @@ Below is the list of the best UI Design, UI Development, SEO, Applications, Inte
    </ul>
    
    <h2> Frameworks and Libraries Javascript </h2>
-  <ul>
+   <ul>
    <li><a href="https://angularjs.org/"> Angular js </a></li>
    <li><a href="http://backbonejs.org/">Backbone </a></li>
    <li><a href="https://facebook.github.io/react/">React </a></li>
    <li><a href="http://knockoutjs.com/">Knockout  </a></li>
    <li><a href="http://emberjs.com/">Ember </a></li>
    <li><a href="https://www.meteor.com/">Meteor </a> </li>
- 
- </ul>
+   </ul>
 
- <h2>Sites for SEO </h2>
- <ul>
+  <h2>Sites for SEO </h2>
+  <ul>
   <li> <a href="https://moz.com/"> Seo Moz</a></li>
- </ul>
+  </ul>
+  
+  <h2>Fonts sites </h2>
+  <ul>
+   <li> <a href="https://fonts.google.com/">Google fonts </a></li>
+   <li> <a href="http://www.1001fonts.com/">1001 fonts</a></li> 
+   <li> <a href="http://fontsquirrel.com"> Font Squirrel</a></li>
+   </ul>
+ 
+   <h2> For Interview references </h2>
+   <ul>
+   <li><a href="https://github.com/h5bp/Front-end-Developer-Interview-Questions"> </a></li>
+   </ul>
+   <h2> Practice Playground for Developers </h2>
+   <ul>
+   <li><a href="https://jsbin.com/?html,output">JsBin </a></li>
+   <li><a href="https://codepen.io/">Codepen </a></li>
+   <li><a href="http://cssdeck.com/">CssDeck </a></li>
+   <li><a href="http://dabblet.com/">Dabblet</a></li>
+   <li><a href="https://plnkr.co/">Plunker</a></li>
+   </ul>
+
