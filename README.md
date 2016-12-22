@@ -66,7 +66,16 @@ Below is the list of the best UI Design, UI Development, SEO, Applications, Inte
    <li><a href="http://emberjs.com/">Ember </a></li>
    <li><a href="https://www.meteor.com/">Meteor </a> </li>
    </ul>
-
+  <h2> Best Developers to follow </h2>
+  <ul>
+  <li><a href="https://twitter.com/paul_irish">Paul Irish </a></li>
+  <li><a href="https://davidwalsh.name/">David Walsh </a></li>
+  <li><a href="http://chriscoyier.net/">Criss Coyer </a></li>
+  <li><a href="https://toddmotto.com/">Todd Motto </a></li>
+  <li><a href="http://sarahdrasnerdesign.com/">Sara Drasner </a></li>
+  <li><a href="https://sarasoueidan.com/">Sara Soueidan </a></li>
+ </ul>
+ 
   <h2>Sites for SEO </h2>
   <ul>
   <li> <a href="https://moz.com/"> Seo Moz</a></li>
