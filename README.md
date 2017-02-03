@@ -100,4 +100,10 @@ Below is the list of the best UI Design, UI Development, SEO, Applications, Inte
    <li><a href="http://dabblet.com/">Dabblet</a></li>
    <li><a href="https://plnkr.co/">Plunker</a></li>
    </ul>
+ <h2> Hosting Sites </h2>
+   <ul>
+  <li><a href="https://www.bluehost.com">Bluehost </a></li>
+  <li><a href="http://www.ipage.com">ipage </a></li>
+  <li><a href="http://www.hostgator.com">Hostgator</a></li>
 
+   </ul>
